@@ -1,0 +1,34 @@
+@model List<Pacotes>
+@{
+    ViewData["Title"] = "Listagem de Pacotes";
+}
+<h2>Listagem de Pacotes</h2>
+<table class="table table-bordered table-stripped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Origem</th>
+            <th>Destino</th>
+            <th>Atrativos</th>
+            <th>Saida</th>
+            <th>Retorno</th>
+            <th>usuario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Pacotes p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Nome</td>
+                <td>@p.Origem</td>
+                <td>@p.Destino</td>
+                <td>@p.Atrativos</td>
+                <td>@p.Saida</td>
+                <td>@p.Retorno</td>
+                <td>@p.usuario</td>
+            </tr>
+        }
+    </tbody>
+</table>

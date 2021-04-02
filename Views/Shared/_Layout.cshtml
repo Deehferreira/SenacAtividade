@@ -1,0 +1,39 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Cadastros</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+       <nav id="menu" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Destino Certo</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                   <a class="btn btn-light" asp-area="" asp-controller="Pacotes" asp-action="Listar">Listar</a>
+                   <a class="btn btn-light" asp-area="" asp-controller="Pacotes" asp-action="Excluir">Excluir</a>
+                   <a class="btn btn-light" asp-area="" asp-controller="Pacotes" asp-action="Editar">Editar</a>
+                   <a class="btn btn-light" asp-area="" asp-controller="Pacotes" asp-action="Inserir">Inserir</a>
+                   <a class="btn btn-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </div>
+            </div> 
+                @if(Context.Session.GetInt32("idUsuario") != null)
+                {
+                <span>Olá @Context.Session.GetString("nomeUsuario")</span>
+                <a asp-action="Logout" class="btn btn-outline-danger">Sair</a>
+                }
+           
+        </nav>
+    </header>
+    <main role="main">
+        @RenderBody()
+    </main>
+</body>
+</html>

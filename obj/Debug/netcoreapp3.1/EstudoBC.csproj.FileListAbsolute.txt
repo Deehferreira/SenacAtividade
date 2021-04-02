@@ -1,0 +1,92 @@
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.exe
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.deps.json
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.runtimeconfig.json
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.runtimeconfig.dev.json
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.dll
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.pdb
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.Views.dll
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.Views.pdb
+C:\Users\Regina\Pictures\EstudoBC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.csprojAssemblyReference.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.AssemblyInfoInputs.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.AssemblyInfo.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.csproj.CoreCompileInputs.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorAssemblyInfo.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorAssemblyInfo.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.TagHelpers.input.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.TagHelpers.output.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorCoreGenerate.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorTargetAssemblyInfo.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorTargetAssemblyInfo.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.Views.pdb
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.csproj.CopyComplete
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\staticwebassets\EstudoBC.StaticWebAssets.Manifest.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\staticwebassets\EstudoBC.StaticWebAssets.xml
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.dll
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.pdb
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.genruntimeconfig.cache
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Inserir.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Listar.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Editar.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Login.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Excluir.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Logout.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+C:\Users\Regina\Pictures\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Logout.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.exe
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.deps.json
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.runtimeconfig.json
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.runtimeconfig.dev.json
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.dll
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.pdb
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.Views.dll
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\EstudoBC.Views.pdb
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.csprojAssemblyReference.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.AssemblyInfoInputs.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.AssemblyInfo.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.csproj.CoreCompileInputs.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorAssemblyInfo.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorAssemblyInfo.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\staticwebassets\EstudoBC.StaticWebAssets.Manifest.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\staticwebassets\EstudoBC.StaticWebAssets.xml
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\scopedcss\bundle\EstudoBC.styles.css
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.TagHelpers.input.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.TagHelpers.output.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorCoreGenerate.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Logout.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Editar.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Excluir.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Inserir.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Listar.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Login.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Logout.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorTargetAssemblyInfo.cache
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.RazorTargetAssemblyInfo.cs
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.Views.pdb
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.csproj.CopyComplete
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.dll
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.pdb
+C:\Users\ddcf1\OneDrive\Área de Trabalho\TECNICO SENAC\EstudoBC\obj\Debug\netcoreapp3.1\EstudoBC.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Logout";
+}
+<h2>Logout</h2>
+<p id="pMensagem">@ViewBag.Mensagem</p>
+<form asp-action="Logout" method="POST">
+    <p>
+        <input type="submit" value="Sair" />
+    </p>
+</form>
